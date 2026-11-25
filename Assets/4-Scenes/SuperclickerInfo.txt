@@ -1,0 +1,4 @@
+Faltaría añadir sonido.
+Cambiar todos los Sprites/temática.
+Sistema de agentes.
+Enviad repositorio y además el apk ya compilado.
